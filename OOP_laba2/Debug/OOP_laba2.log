@@ -1,0 +1,7 @@
+﻿  rhombus.cpp
+  OpenStack.cpp
+  main.cpp
+c:\users\ivn\source\repos\oop_laba2\oop_laba2\main.cpp(63): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Draw.cpp
+  Создание кода...
+  OOP_laba2.vcxproj -> C:\Users\Ivn\source\repos\OOP_laba2\Debug\OOP_laba2.exe
