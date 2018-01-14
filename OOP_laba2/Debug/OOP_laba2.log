@@ -1,8 +1,1 @@
-﻿  rhombus.cpp
-  OpenStack.cpp
-  main.cpp
-e:\мое\программирование\ооп\лаба 2\oop_laba2\oop_laba2\main.cpp(63): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-  Draw.cpp
-  Создание кода...
-  LINK : не найден или не выполнена сборка E:\Мое\Программирование\ООП\Лаба 2\OOP_laba2\Debug\OOP_laba2.exe при последней инкрементной компоновке; выполняется полная компоновка
-  OOP_laba2.vcxproj -> E:\Мое\Программирование\ООП\Лаба 2\OOP_laba2\Debug\OOP_laba2.exe
+﻿  OOP_laba2.vcxproj -> E:\Мое\Программирование\ООП\Лаба 2\OOP_laba2\Debug\OOP_laba2.exe
