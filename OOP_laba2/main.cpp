@@ -1,6 +1,4 @@
 #define _CRT_SECURE_NO_WARNINGS
-using namespace std;
-
 
 #include <windows.h>
 #include <windowsx.h>
@@ -11,6 +9,8 @@ using namespace std;
 #include "Rhombus.h"
 #include "Draw.h"
 #include "OpenStack.h"
+
+using namespace std;
 
 void Test(int &x, int &y, int &v, int &h, Rhombus &romb, RECT rt)
 {

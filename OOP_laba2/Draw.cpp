@@ -1,8 +1,5 @@
 #include "Draw.h"
-using namespace std;
 
-#include <iostream>
-#include <windows.h>
 #include <windowsx.h>
 
 void Draw::RombDraw(Rhombus *romb, HDC hdc)

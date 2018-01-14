@@ -1,24 +1,23 @@
 #include "Rhombus.h"
-using namespace std;
 
-#include <iostream>
-#include <windows.h>
 #include <windowsx.h>
 #include <fstream>
+
+using namespace std;
 
 Rhombus::Rhombus()
 {
 
-	vertDiagonal = 360;								//360
-	horizDiagonal = 400;								//400
-	xCenter = 480;												//480
-	yCenter = 240;												//240
-	background—olor.rgbtRed = 240;			//255
-	background—olor.rgbtGreen = 0;		//0
-	background—olor.rgbtBlue = 0;		//0
-	frame—olor.rgbtRed = 0;					//0
-	frame—olor.rgbtGreen = 255;				//255
-	frame—olor.rgbtBlue = 0;					//0
+	vertDiagonal = 360;
+	horizDiagonal = 400;
+	xCenter = 480;
+	yCenter = 240;
+	background—olor.rgbtRed = 240;
+	background—olor.rgbtGreen = 0;
+	background—olor.rgbtBlue = 0;
+	frame—olor.rgbtRed = 0;
+	frame—olor.rgbtGreen = 255;
+	frame—olor.rgbtBlue = 0;
 }
 Rhombus::Rhombus(int tVertDiagonal, int tHorizDiagonal, int x, int y, RGBTRIPLE tbackground—olor, RGBTRIPLE tFrame—olor)
 {
